@@ -1,0 +1,9 @@
+body{
+	background-color: #0021A5;
+}
+
+div.course-list{
+	overflow-y:auto;
+	height:300px;
+}
+
